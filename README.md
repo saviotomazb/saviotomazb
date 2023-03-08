@@ -11,8 +11,8 @@ Gostaria de destacar algumas informações a meu respeito, conforme mencionado a
 - Aprender novas linguagens de programação.
 ##
 <div>
-<a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
-<a href="https://twitter.com/saviotomazb" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
-<a href = "mailto:saviotomaz_@hotmail.com"><img src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-email.png/@@images/2272be23-02eb-43ca-9fad-f6fa02970ba3.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/saviotomaz" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="30px" height="30px"></a>
+<a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://icon-library.com/images/instagram-icon-png-white/instagram-icon-png-white-2.jpg" target="_blank" width="30px" height="30px"></a>&emsp;
+<a href="https://twitter.com/saviotomazb" target="_blank"><img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png" target="_blank" width="30px" height="30px"></a>&emsp;
+<a href = "mailto:saviotomaz_@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/526/526901.png" target="_blank" width="30px" height="30px"></a>&emsp;
+<a href="https://www.linkedin.com/in/saviotomaz" target="_blank"><img src="https://www.iconsdb.com/icons/download/white/linkedin-32.png" target="_blank" width="30px" height="30px"></a>&emsp;
 </div>
