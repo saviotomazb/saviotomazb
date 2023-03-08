@@ -10,7 +10,6 @@ Gostaria de destacar algumas informações a meu respeito, conforme mencionado a
 - Obter certificações (Microsoft, ITIL e entre outras);
 - Aprender novas linguagens de programação.
 
-## Contatos:
 
 <div>
 <a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="30px" height="30px"></a>
