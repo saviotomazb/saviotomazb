@@ -9,25 +9,10 @@ Gostaria de destacar algumas informações a meu respeito, conforme mencionado a
 - Continuar os estudos em instituições de ensino superior;
 - Obter certificações (Microsoft, ITIL e entre outras);
 - Aprender novas linguagens de programação.
-
-
+##
 <div>
-<a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="30px" height="30px"></a>
-<a href="https://twitter.com/saviotomazb" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank" width="30px" height="30px"></a>
-<a href = "mailto:saviotomaz_@hotmail.com"><img src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-email.png/@@images/2272be23-02eb-43ca-9fad-f6fa02970ba3.png" target="_blank" width="30px" height="30px"></a>
-<a href="https://www.linkedin.com/in/saviotomaz" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="30px" height="30px"></a>   
+<a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/saviotomazb" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
+<a href = "mailto:saviotomaz_@hotmail.com"><img src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-email.png/@@images/2272be23-02eb-43ca-9fad-f6fa02970ba3.png" target="_blank" width="30px" height="30px">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/saviotomaz" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="30px" height="30px"></a>
 </div>
-
-**saviotomazb/saviotomazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
