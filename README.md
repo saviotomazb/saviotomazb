@@ -9,13 +9,17 @@ Gostaria de destacar algumas informações a meu respeito, conforme mencionado a
 - Continuar os estudos em instituições de ensino superior;
 - Obter certificações (Microsoft, ITIL e entre outras);
 - Aprender novas linguagens de programação.
-<br>
+
+### Minha carreira:
+<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png"> Iniciei minha carreira como estagiário na empresa **Unimed Catanduva**, atuando como auxiliar na área de Tecnologia da Informação (mai-2022/dez-2022);<br>
+<img width="20px" height="20px" src="https://cdn-icons-png.flaticon.com/512/9589/9589496.png"> Atualmente trabalho como Assistente de Informática Pleno na empresa **Unimed Catanduva** (jan-2023/momento atual).
+
 <div>
 <a href="https://github.com/saviotomazb">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&layout=compact&langs_count=7&theme=dracula">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviotomazb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-</div>
-  
+</div> 
+
 ##
 <div>
 <a href="https://instagram.com/saviotomazb" target="_blank"><img src="https://icon-library.com/images/instagram-icon-png-white/instagram-icon-png-white-2.jpg" target="_blank" width="30px" height="30px"></a>&emsp;
