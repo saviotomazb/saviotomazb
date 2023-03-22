@@ -11,7 +11,9 @@ Gostaria de destacar algumas informações a meu respeito, conforme mencionado a
 ### Experiências:
 <img width="15px" height="15px" src="https://cdn-icons-png.flaticon.com/512/3953/3953226.png">&ensp;Durante minha adolescência iniciei os estudos na escola estadual ETEC Marinês Teodoro de Freitas Almeida, onde me formei como Técnico em Informática, e logo após, ingressei no ensino superior na FATEC Catanduva no curso de Gestão da Tecnologia da Informação. Já realizei outros cursos como, CyberOps Associate pela Cisco e Inteligência Artificial e Computacional pela FIAP. Como também, a participação em projeto de desenvolvimento Web, que visa a construção de uma plataforma para organizações sem fins lucrativos (ONGs) na cidade de Catanduva, São Paulo.
 <br>
-<br>
+### Tecnologias e ferramentas:
+<img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5">&ensp;<img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3">&ensp;<img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">&ensp;<img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&ensp;
+
 <div>
 <a href="https://github.com/saviotomazb">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&layout=compact&langs_count=7&theme=dracula">
