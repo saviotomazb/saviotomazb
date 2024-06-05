@@ -12,4 +12,4 @@ I'm Sávio, a **fullstack developer**.
 
 ### :bar_chart: GitHub Analytics
 
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=saviotomazb&show_icons=true&theme=dracula"/> <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&hide_progress=true&theme=dracula"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=saviotomazb&show_icons=true&theme=dracula" alt="GitHub Stats"/> <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&hide_progress=true&theme=dracula" alt="GitHub Most Used Language"/>
