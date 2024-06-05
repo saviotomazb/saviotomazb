@@ -9,3 +9,8 @@ I'm Sávio, a **fullstack developer**.
 <img width="40em" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" alt="JavaScript">&nbsp;
 <img width="40em" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server">&nbsp;
 <img width="40em" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#">&nbsp;
+
+### :bar_chart: GitHub Analytics
+
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=saviotomazb&show_icons=true&theme=dracula"/>&nbsp;
+<img width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&hide_progress=true&theme=dracula"/>
