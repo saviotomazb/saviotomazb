@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hi there! 
 
-I'm Sávio, a **fullstack developer**.
+I'm Sávio, a **full stack developer**.
 
 ### :hammer: Stacks
 
