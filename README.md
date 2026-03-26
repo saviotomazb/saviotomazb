@@ -25,7 +25,7 @@ I'm Sávio, a **full stack developer**.
 ### 📧 Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/saviotomazb/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saviotomazb/" alt="LinkedIn"/></a>
   <a href="mailto:saviotomaz_@hotmail.com" title="E-mail">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
