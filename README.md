@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hi there! 
 
-I'm Sávio, a **Full Stack Developer** focused on building modern and scalable applications using **C#**, **.NET**, and **SQL**.
+I'm Sávio, a **Full Stack Developer** focused on building modern and scalable web applications using **C#**, **.NET**, and **SQL**.
 
 ### :hammer: Stacks
 
