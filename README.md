@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Hi there!
+## Hi there! 👨🏻‍💻
 
 I'm Sávio, a **Full Stack Developer** focused on building modern and scalable web applications using **C#**, **.NET**, and **SQL**.
 
