@@ -2,7 +2,7 @@
 
 I'm Sávio, a **Full Stack Developer** focused on building modern and scalable web applications using **C#**, **.NET**, and **SQL**.
 
-#### Stacks
+### Stacks
 - HTML5
 - CSS3
 - Tailwind CSS
@@ -10,13 +10,13 @@ I'm Sávio, a **Full Stack Developer** focused on building modern and scalable w
 - SQL Server
 - C#
 
-#### Tools
+### Tools
 - Git
 - Docker
 - Visual Studio Code
 - Visual Studio
 
-#### Contact
+### Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/saviotomazb/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saviotomazb/" alt="LinkedIn"/></a>
