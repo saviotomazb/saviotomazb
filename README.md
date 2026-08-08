@@ -29,7 +29,7 @@ SYSTEM // PORTFOLIO
 
 <table>
 <tr>
-<td width="65%">
+<td>
 
 ### 👨‍💻 Who am I?
 
@@ -46,12 +46,6 @@ Currently, my focus is on strengthening my expertise in the **.NET ecosystem** a
 **Current focus**
 
 `C#` · `.NET` · `ASP.NET Core` · `REST APIs` · `Entity Framework Core` · `PostgreSQL` · `Angular`
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saviotomazb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github" width="100%" />
 
 </td>
 </tr>
@@ -108,46 +102,6 @@ Currently, my focus is on strengthening my expertise in the **.NET ecosystem** a
 
 ---
 
-## `> GITHUB_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviotomazb&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" width="42%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saviotomazb&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saviotomazb&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saviotomazb&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
-
-</div>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saviotomazb/saviotomazb/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
-
-</div>
-
----
-
 ## `> CONNECT`
 
 <div align="center">
@@ -163,23 +117,5 @@ Currently, my focus is on strengthening my expertise in the **.NET ecosystem** a
 <a href="mailto:saviotomaz_@hotmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=hotmail&logoColor=black" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║              SYSTEM ONLINE • KEEP BUILDING              ║
-║                                                          ║
-║       "Learning → Building → Improving → Evolving"      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<sub>Designed & built by Sávio Tomaz · 2026</sub>
 
 </div>
