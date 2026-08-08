@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+S%C3%A1vio+Tomaz+%F0%9F%91%8B;C%23+%7C+.NET+%7C+ASP.NET+Core;Building+Systems.+Learning.+Evolving." alt="Typing Animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+S%C3%A1vio+Tomaz;C%23+%7C+.NET+%7C+ASP.NET+Core;Build.+Learn.+Evolve." alt="Typing Animation" />
+
 
 <br>
 
