@@ -59,46 +59,48 @@ Currently, my focus is on strengthening my expertise in the **.NET ecosystem** a
 
 <div align="center">
 
-### ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-
-<br><br>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=postgresql" />
-
-<br><br>
-
-### 🧰 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,tailwind,postgres,sqlserver,oracle,docker,git,github,visualstudio,vscode" />
 
 </div>
+
 
 ---
 
 ## `> DEVELOPMENT_ENVIRONMENT`
 
-<div align="center">
-
-| Layer              | Technologies                                       |
-| :----------------- | :------------------------------------------------- |
-| **Backend**        | C# · .NET · ASP.NET Core                           |
-| **Architecture**   | REST · Layered Architecture · Dependency Injection |
-| **ORM**            | Entity Framework Core                              |
-| **Frontend**       | Angular · TypeScript                               |
-| **Database**       | PostgreSQL · SQL                                   |
-| **DevOps / Tools** | Git · GitHub · Docker · Visual Studio · VS Code    |
-
-</div>
+```json
+{
+  "backend": {
+    "language": "C#",
+    "frameworks": [
+      ".NET",
+      "ASP.NET Core"
+    ]
+  },
+  "frontend": {
+    "framework": "Angular",
+    "language": "TypeScript"
+  },
+  "database": [
+    "PostgreSQL",
+    "SQL Server",
+    "Oracle SQL"
+  ],
+  "orm": "Entity Framework Core",
+  "architecture": [
+    "REST APIs",
+    "Layered Architecture",
+    "Dependency Injection"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Visual Studio",
+    "VS Code"
+  ]
+}
+```
 
 ---
 
